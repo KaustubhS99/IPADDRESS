@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 
 1️⃣ Clone this repository:
 
-git clone https://github.com/your-username/ip-address-tracker.git
+git clone https://github.com/KaustubhS99/IPADDRESS.git
 
 2️⃣ Navigate to the project directory:
 
