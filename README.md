@@ -1,5 +1,4 @@
 IP Address Tracker
-
 A real-time IP Address Tracker built with React, LeafletJS, and IPAPI to provide accurate geolocation data for any IP address or domain.
 
 <img width="1466" alt="Screenshot 2024-08-10 at 5 27 36 PM" src="https://github.com/user-attachments/assets/17e1d76e-4a7b-42a7-9089-70af948b69a5">
