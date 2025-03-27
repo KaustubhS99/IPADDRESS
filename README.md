@@ -19,7 +19,7 @@
 
 ## 1️⃣ Clone this repository:
 
-git clone https://github.com/KaustubhS99/IPADDRESS.git
+```bash git clone https://github.com/KaustubhS99/IPADDRESS.git
 
 ## 2️⃣ Navigate to the project directory:
 
