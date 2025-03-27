@@ -19,15 +19,15 @@
 
 ## 1️⃣ Clone this repository:
 
-```bash git clone https://github.com/KaustubhS99/IPADDRESS.git
+```bash git clone https://github.com/KaustubhS99/IPADDRESS.git ```
 
 ## 2️⃣ Navigate to the project directory:
 
-cd ip-address-tracker
+```bash cd ip-address-tracker ```
 
 ## 3️⃣ Install dependencies:
 
-npm install
+```bash npm install ```
 
 ## 4️⃣ Start the development server:
 
